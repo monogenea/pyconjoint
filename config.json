@@ -1,0 +1,11 @@
+{
+    "attrlevels": {
+        "price": [10, 20, 30, 40, 50],
+        "color": ["blue", "red", "green"],
+        "size": ["large", "medium", "small"]
+    },
+    "n_tasks": 12,
+    "n_concepts": 3,
+    "n_versions": 10,
+    "none_option": false
+}
