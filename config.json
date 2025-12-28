@@ -1,8 +1,9 @@
 {
+    "study_name": "Videogame Purchase",
     "attrlevels": {
         "price": [10, 20, 30, 40, 50],
-        "color": ["blue", "red", "green"],
-        "size": ["large", "medium", "small"]
+        "rating": ["E", "E10+", "T"],
+        "genre": ["platform", "fps", "racing"]
     },
     "n_tasks": 12,
     "n_concepts": 3,
